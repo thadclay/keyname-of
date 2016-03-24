@@ -7,7 +7,7 @@
     "test": "fox"
   },
   "dependencies": {
-    "keynames": "*"
+    "keynames": "thadclay/keynames"
   },
   "devDependencies": {
     "fox": "*"
